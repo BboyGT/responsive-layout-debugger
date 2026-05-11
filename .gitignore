@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+coverage/
+*.log
+edge-shot*.png
+.env
+.env.*
+.vite/
+.DS_Store
